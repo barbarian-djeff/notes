@@ -24,6 +24,7 @@ Advanced features
 Add dependencies, build and run
 ===============================
 - Apache Maven Is So Famous. But Why? (4:22): https://www.youtube.com/watch?v=WL8uEd8Yu6M
+- Spring Framework 5.0 on JDK 8 & 9 (1:14:00): https://www.youtube.com/watch?v=0-sbPBf81KA
 - Springboot (28:44): https://www.youtube.com/watch?v=FXJPA3IqANg
 
 Internals
