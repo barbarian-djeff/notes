@@ -34,7 +34,7 @@ Internals
 - Understanding Java Garbage Collection and what you can do about it: https://www.youtube.com/watch?v=we_enrM7TSY
 - Modular Development with JDK 9: https://www.youtube.com/watch?v=gtcTftvj0d0
 
-GIT
+Git
 ===
 - Git Tutorial for Beginners (30:32): https://www.youtube.com/watch?v=HVsySz-h9r4
 - Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits (21:30): https://www.youtube.com/watch?v=FdZecVxzJbk
