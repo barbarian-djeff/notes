@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-- What's important Java Terms do I need to know? (8:37): https://www.youtube.com/watch?v=yxwdKX7ErJ4
+- What important Java Terms do I need to know? (8:37): https://www.youtube.com/watch?v=yxwdKX7ErJ4
 - Learn Java Programming with Beginners Tutorial (35:05): https://www.youtube.com/watch?v=uWYPVz_i7W4
 - Object-oriented Programming in 7 minutes (7:33): https://www.youtube.com/watch?v=pTB0EiLXUC8
 - Install Eclipse (7:20): https://www.youtube.com/watch?v=svJQu6LUSTs
